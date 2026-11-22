@@ -1,0 +1,4 @@
+name: browser-health
+version: 0.1.0
+description: "Report the local CDP browser stack read-only: is the visible profile browser on :9222 alive or replaced by a headless impostor, how many live cookies the profile holds, is the agent browser on :9223 up. Returns ok/degraded/down plus reasons."
+author: "openamer"
